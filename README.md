@@ -3,7 +3,7 @@
 
 
 ## Presentación 🚀
-![img_header](https://user-images.githubusercontent.com/67895734/204874158-c1048dc7-edd4-4aeb-9098-b65fd0279992.png)
+![mockup_greenfood](https://user-images.githubusercontent.com/67895734/204875240-b66f5a2f-2003-45d3-a0aa-a7a74b351a6e.png)
 
 **Green Food - Recetas saludables.**
 **¿No sabes que cocinarte?** Explora y encuentra miles de ideas para cocinarte hoy. Cocinas del mundo, inspiración, comidas..._
@@ -23,7 +23,7 @@ _**Versión Premium**_
 ## Aquí podrás visualizar los prototipos:
 
  ## 💻 [Prototipo Web](https://www.figma.com/proto/gIJNwgor42i99ZzTSe96VZ/Doonamis?node-id=152%3A2936&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=80%3A8617&hide-ui=1) 
-## 📱 [Prototipo APP](https://www.figma.com/proto/gIJNwgor42i99ZzTSe96VZ/Doonamis?node-id=75%3A2376&scaling=scale-down&page-id=2%3A6&starting-point-node-id=75%3A2376)
+## 📱 [Prototipo APP: _visualización óptima Iphone 13 o similar_](https://www.figma.com/proto/gIJNwgor42i99ZzTSe96VZ/Doonamis?node-id=75%3A2376&scaling=scale-down&page-id=2%3A6&starting-point-node-id=75%3A2376)
 
 
 ## Herramientas y lenguajes utilizadas 🛠️
