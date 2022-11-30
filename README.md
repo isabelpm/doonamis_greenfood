@@ -1,11 +1,11 @@
-# doonamis_greenfood
+# Doonamis Green Food - Prueba técnica
 ![portada_doonamis](https://user-images.githubusercontent.com/67895734/204843343-4e4f3a0d-536d-4ee4-98d5-4af10117444d.png)
 
 
 ## Presentación 🚀
+![img_header](https://user-images.githubusercontent.com/67895734/204874158-c1048dc7-edd4-4aeb-9098-b65fd0279992.png)
 
 **Green Food - Recetas saludables.**
-
 **¿No sabes que cocinarte?** Explora y encuentra miles de ideas para cocinarte hoy. Cocinas del mundo, inspiración, comidas..._
 
 _**Versión Free**_
