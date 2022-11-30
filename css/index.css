@@ -9,7 +9,19 @@
 
 body {
     background-color: #F9FAF3 !important;
+    
 }
+
+/*color texto*/
+p.lead {
+    color: #1F4322 !important;
+}
+
+h1.display-5.fw-normal.lh-2.mb-4 {
+    color: #1F4322 !important;
+}
+
+
 
 main {
     background: white;
@@ -99,7 +111,6 @@ button.btn.btn-primary-lg.btn-lg.px-4.me-md-2 {
 
 /* Botón Secondary Card */
 button.btn.btn-secondary-outline-card {
-    /*background: #FFFFFF;*/
     border: 1px solid #9EAB60;
     border-radius: 20px;
     font-size: 16px;
@@ -118,7 +129,7 @@ i {
 .efecto1 {
     color: #1F4322 !important;
     border-color: #9EAB60;
-    /*background: #fff;*/
+    
 }
 
 .efecto1:hover {
@@ -171,6 +182,7 @@ i {
 h2.display-7 {
     font-size: 2rem;
     font-weight: 700;
+    color: #1F4322 !important;
 }
 
 
