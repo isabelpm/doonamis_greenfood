@@ -1,0 +1,190 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat',
+        sans-serif;
+    /*font-weight: 600;*/
+    color: #1F4322 !important;
+}
+
+body {
+    background-color: #F9FAF3 !important;
+}
+
+main {
+    background: white;
+}
+
+.row.flex-lg-row-reverse.align-items-center.g-5.py-5 {
+    margin: 0 50px 0px 50px;
+}
+
+/*Navbar*/
+.container-fluid.nav-margin {
+    margin: 0 10rem;
+}
+
+.bg-light-nav {
+    --bs-bg-opacity: 1;
+    background-color: #ffff !important;
+    box-shadow: 0px 4px 25px rgb(0 0 0 / 8%);
+}
+
+a.nav-link.active {
+    font-weight: 600;
+}
+
+.bg-light-nav {
+    --bs-bg-opacity: 1;
+    background-color: #ffff !important;
+    box-shadow: 0px 4px 25px rgb(0 0 0 / 8%);
+}
+
+/*----- Botones NAV --------*/
+
+/* Bnt nav secondary-outline-nav */
+button.btn.btn-secondary-outline-nav {
+    /*background: #FFFFFF;*/
+    border: 1px solid #9EAB60;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+button.btn.btn-primary-nav {
+
+    background: #BFCB84;
+    border: 1px solid #BFCB84;
+    border-radius: 20px;
+
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+button.btn.btn-primary-notification {
+    background: none;
+    border: none;
+    border-radius: 20px;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Boton Primary Large */
+button.btn.btn-primary-lg.btn-lg.px-4.me-md-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    width: 240px;
+    height: 48px;
+    border-style: none;
+    background: #BFCB84;
+    color: #1F4322;
+    border-radius: 20px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/* Botón Secondary Card */
+button.btn.btn-secondary-outline-card {
+    /*background: #FFFFFF;*/
+    border: 1px solid #9EAB60;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top:1rem;
+}
+
+/*Espacio icono-Bnt*/
+i {
+    margin-right: 10px;
+}
+
+/*efecto hover*/
+.efecto1 {
+    color: #1F4322 !important;
+    border-color: #9EAB60;
+    /*background: #fff;*/
+}
+
+.efecto1:hover {
+    background: #1F4322;
+    color: #fff !important;
+}
+
+.efecto2 {
+    color: #1F4322 !important;
+    border-color: #9EAB60;
+    background: #BFCB84 !important;
+}
+
+.efecto2:hover {
+    background: #1F4322 !important;
+    color: #fff !important;
+}
+
+
+/* Lead */
+.lead {
+    font-size: 1.25rem;
+    font-weight: 400;
+    padding-bottom: 1rem;
+}
+
+.lead-footer {
+    font-size: 0.9rem;
+    font-weight: 400;
+    padding-bottom: 1rem;
+}
+
+.d-md-flex.flex-md-equal.w-100.my-md-3.ps-md-3 {
+    background: #ffff;
+}
+
+.bg-light {
+    background-color: #F9FAF3 !important;
+
+}
+
+/* Card */
+.d-md-flex.flex-md-equal.w-100.my-md-3.ps-md-3 {
+    display: flex !important;
+    justify-content: center;
+    padding-top: 0rem;
+
+}
+
+h2.display-7 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+
+
+@media (max-width: 768px) {
+    .flex-md-equal>* {
+        flex: 1;
+    }
+    .d-md-flex.flex-md-equal.w-100.my-md-3.ps-md-3 {
+        display: flex !important;
+        justify-content: center;
+        padding-top: 5rem;
+        flex-direction: column;
+    }
+}
+

@@ -1,4 +1,4 @@
-# doonamis_greenfood
+# GreenFood
 ![portada_doonamis](https://user-images.githubusercontent.com/67895734/204843343-4e4f3a0d-536d-4ee4-98d5-4af10117444d.png)
 
 
